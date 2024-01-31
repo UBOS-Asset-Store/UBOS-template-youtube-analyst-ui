@@ -76,7 +76,7 @@
                                                                 "fontSize": "HEADING1",
                                                                 "fontStyle": "BOLD",
                                                                 "textAlign": "CENTER",
-                                                                "textColor": "#495894",
+                                                                "textColor": "#231F20",
                                                                 "truncateButtonColor": "#FFC13D",
                                                                 "widgetName": "Text1",
                                                                 "shouldTruncate": false,
@@ -94,7 +94,7 @@
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
                                                                 "topRow": 0,
-                                                                "bottomRow": 9,
+                                                                "bottomRow": 7,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": []
@@ -113,7 +113,7 @@
                                                                 "key": "2fj83qejyh",
                                                                 "iconSVG": "/static/media/icon.cca02633.svg",
                                                                 "buttonVariant": "PRIMARY",
-                                                                "buttonColor": "#495894",
+                                                                "buttonColor": "#F80701",
                                                                 "disabledWhenInvalid": true,
                                                                 "resetFormOnClick": false,
                                                                 "widgetId": "y768yymldk",
@@ -121,8 +121,8 @@
                                                                 "isLoading": false,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 57,
-                                                                "bottomRow": 62,
+                                                                "topRow": 49,
+                                                                "bottomRow": 54,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [
@@ -169,12 +169,13 @@
                                                                 "parentRowSpace": 10,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 19,
-                                                                "bottomRow": 26,
+                                                                "topRow": 15,
+                                                                "bottomRow": 22,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
-                                                                "labelTextColor": "#495894"
+                                                                "labelTextColor": "#231F20",
+                                                                "placeholderText": "sk-XXXXXXXX63Az1EeBM3rlT3BlbkFJQ4IOqyXXdhTgjqN2YbXX"
                                                             },
                                                             {
                                                                 "isVisible": true,
@@ -207,13 +208,13 @@
                                                                 "parentRowSpace": 10,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 38,
-                                                                "bottomRow": 45,
+                                                                "topRow": 32,
+                                                                "bottomRow": 39,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
                                                                 "tooltip": "The URL of the Youtube video comments you want to analyze.",
-                                                                "labelTextColor": "#495894",
+                                                                "labelTextColor": "#231F20",
                                                                 "placeholderText": "https://www.youtube.com/watch?v=73bH5IHZiwr"
                                                             },
                                                             {
@@ -247,14 +248,14 @@
                                                                 "parentRowSpace": 10,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 47,
-                                                                "bottomRow": 54,
+                                                                "topRow": 40,
+                                                                "bottomRow": 47,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
                                                                 "tooltip": "What do you want to know about these comments?",
-                                                                "labelTextColor": "#495894",
-                                                                "placeholderText": "informativeness"
+                                                                "labelTextColor": "#231F20",
+                                                                "placeholderText": "general mood"
                                                             },
                                                             {
                                                                 "isVisible": true,
@@ -284,12 +285,12 @@
                                                                 "parentRowSpace": 10,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 29,
-                                                                "bottomRow": 36,
+                                                                "topRow": 23,
+                                                                "bottomRow": 30,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
-                                                                "labelTextColor": "#495894"
+                                                                "labelTextColor": "#231F20"
                                                             },
                                                             {
                                                                 "isVisible": true,
@@ -308,7 +309,7 @@
                                                                 "isDisabled": false,
                                                                 "animateLoading": true,
                                                                 "classStyle": "",
-                                                                "inputType": "TEXT",
+                                                                "inputType": "PASSWORD",
                                                                 "buttonPosition": "right",
                                                                 "type": "INPUT_WIDGET_V2",
                                                                 "hideCard": false,
@@ -322,12 +323,13 @@
                                                                 "parentRowSpace": 10,
                                                                 "leftColumn": 0,
                                                                 "rightColumn": 64,
-                                                                "topRow": 10,
-                                                                "bottomRow": 17,
+                                                                "topRow": 7,
+                                                                "bottomRow": 14,
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
-                                                                "labelTextColor": "#495894"
+                                                                "labelTextColor": "#231F20",
+                                                                "placeholderText": "PCzaSyXXXXX_lq9bf4wXXXdDhh4VPDggtb4-XXX"
                                                             }
                                                         ],
                                                         "minHeight": 400,
@@ -339,7 +341,7 @@
                                                         "leftColumn": 0,
                                                         "rightColumn": 372,
                                                         "topRow": 0,
-                                                        "bottomRow": 640,
+                                                        "bottomRow": 560,
                                                         "parentId": "kraekk2qqi"
                                                     }
                                                 ],
@@ -357,7 +359,7 @@
                                                 "leftColumn": 0,
                                                 "rightColumn": 31,
                                                 "topRow": 0,
-                                                "bottomRow": 65,
+                                                "bottomRow": 57,
                                                 "parentId": "y31wqgc6wv",
                                                 "classStyle": "form_container",
                                                 "dynamicBindingPathList": [],
@@ -367,11 +369,11 @@
                                             },
                                             {
                                                 "isVisible": "{{getFeedback.data ? true : false}}",
-                                                "text": "<h2 style=\"text-align: center; color:#495894; \">Feedback</h2>{{getFeedback.data}}",
+                                                "text": "<h2 style=\"text-align: center; color:#231F20; font-size:24px\">Feedback</h2>{{getFeedback.data}}\n<img src=\"https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg\" style=\"width:30%; right:35%; position:absolute; bottom:0;margin:5px\">",
                                                 "fontSize": "PARAGRAPH",
                                                 "fontStyle": "",
                                                 "textAlign": "LEFT",
-                                                "textColor": "#495894",
+                                                "textColor": "#231F20",
                                                 "truncateButtonColor": "#FFC13D",
                                                 "widgetName": "answer_text",
                                                 "shouldTruncate": false,
@@ -391,7 +393,7 @@
                                                 "leftColumn": 31,
                                                 "rightColumn": 64,
                                                 "topRow": 0,
-                                                "bottomRow": 65,
+                                                "bottomRow": 57,
                                                 "parentId": "y31wqgc6wv",
                                                 "dynamicBindingPathList": [
                                                     {
@@ -421,7 +423,7 @@
                                         "leftColumn": 0,
                                         "rightColumn": 379.5,
                                         "topRow": 0,
-                                        "bottomRow": 670,
+                                        "bottomRow": 590,
                                         "parentId": "lijgkc2eqf"
                                     }
                                 ],
@@ -459,7 +461,7 @@
                         "run_btn",
                         "key_input",
                         "url_input",
-                        "goal_input",
+                        "question_input",
                         "model_select",
                         "googlekey_input",
                         "answer_text"
