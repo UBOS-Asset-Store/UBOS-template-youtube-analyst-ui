@@ -40,7 +40,7 @@
                     }
                 ],
                 "path": "",
-                "body": "{\n\t\"openAIKey\": {{JSON.stringify(key_input.text)}},\n\t\"model\": {{JSON.stringify(model_select.selectedOptionValue)}},\n\t\"url\": {{JSON.stringify(url_input.text)}},\n\t\"goal\": {{JSON.stringify(goal_input.text)}}\n}"
+                "body": "{\n\t\"googleKey\": {{JSON.stringify(googlekey_input.text)}},\n\t\"openAIKey\": {{JSON.stringify(key_input.text)}},\n\t\"model\": {{JSON.stringify(model_select.selectedOptionValue)}},\n\t\"url\": {{JSON.stringify(url_input.text)}},\n\t\"question\": {{JSON.stringify(question_input.text)}}\n}"
             },
             "dynamicBindingPathList": [
                 {
@@ -54,16 +54,17 @@
             "invalids": [],
             "jsonPathKeys": [
                 "main.env.NODERED",
+                "JSON.stringify(googlekey_input.text)",
                 "JSON.stringify(key_input.text)",
                 "JSON.stringify(model_select.selectedOptionValue)",
                 "JSON.stringify(url_input.text)",
-                "JSON.stringify(goal_input.text)"
+                "JSON.stringify(question_input.text)"
             ],
             "userSetOnLoad": false,
             "confirmBeforeExecute": false
         },
         "createdAt": "2024-01-30T13:55:02.785Z",
-        "updatedAt": "2024-01-30T17:13:39.073Z",
+        "updatedAt": "2024-01-31T15:45:36.770Z",
         "deleted": false,
         "policies": [
             {
