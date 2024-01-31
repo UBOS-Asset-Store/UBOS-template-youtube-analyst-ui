@@ -377,7 +377,7 @@
                                                 "truncateButtonColor": "#FFC13D",
                                                 "widgetName": "answer_text",
                                                 "shouldTruncate": false,
-                                                "overflow": "NONE",
+                                                "overflow": "SCROLL",
                                                 "version": 1,
                                                 "animateLoading": true,
                                                 "type": "TEXT_WIDGET",
@@ -446,7 +446,8 @@
                                 "bottomRow": 84,
                                 "parentId": "0",
                                 "dynamicBindingPathList": [],
-                                "dynamicTriggerPathList": []
+                                "dynamicTriggerPathList": [],
+                                "shouldScrollContents": true
                             }
                         ],
                         "dynamicTriggerPathList": []
