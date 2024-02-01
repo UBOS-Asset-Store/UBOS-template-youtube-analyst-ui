@@ -72,7 +72,7 @@
                                                         "children": [
                                                             {
                                                                 "isVisible": true,
-                                                                "text": "Youtube Video Comment Analysis",
+                                                                "text": "YouTube Video Comment Analysis",
                                                                 "fontSize": "HEADING1",
                                                                 "fontStyle": "BOLD",
                                                                 "textAlign": "CENTER",
@@ -213,7 +213,7 @@
                                                                 "parentId": "j5prso4txb",
                                                                 "dynamicBindingPathList": [],
                                                                 "dynamicTriggerPathList": [],
-                                                                "tooltip": "The URL of the Youtube video comments you want to analyze.",
+                                                                "tooltip": "The URL of the YouTube video comments you want to analyze.",
                                                                 "labelTextColor": "#231F20",
                                                                 "placeholderText": "https://www.youtube.com/watch?v=73bH5IHZiwr"
                                                             },

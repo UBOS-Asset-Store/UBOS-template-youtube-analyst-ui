@@ -38,7 +38,7 @@
         }
     ],
     "global_setting": {
-        "title": "Youtube Video Comment Analysis",
+        "title": "YouTube Video Comment Analysis",
         "css": "${env.get(\"NODERED\")}/css"
     },
     "gitApplicationMetadata": {
